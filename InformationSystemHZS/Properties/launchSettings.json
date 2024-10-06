@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InformationSystemHZS": {
+      "commandName": "Project",
+      "commandLineArgs": "list-units"
+    }
+  }
+}
